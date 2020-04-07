@@ -1,0 +1,21 @@
+appl
+server.port=8080
+management.endpoints.web.exposure.include=refresh
+
+
+
+spring:
+  application:
+    name: limitservice
+  cloud:
+    config:
+      uri: http://localhost:8888/
+      enabled: true      
+      fail-fast: true
+  profiles:      
+    active: limitservice    
+management:
+ endpoints:
+   web:
+    exposure:
+     include: "*"   

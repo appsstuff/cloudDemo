@@ -1,0 +1,3 @@
+spring.application.name=limitservice
+limit.config.max=35000
+limit.config.min=35

@@ -1,0 +1,18 @@
+package com.example.demo;
+
+public class LimitConfig {
+
+	private int maximun;
+	private int minimun;
+	public LimitConfig(int maximun, int minimun) {
+		super();
+		this.maximun = maximun;
+		this.minimun = minimun;
+	}
+	public LimitConfig(int maximun, int minimun) {
+		super();
+		this.maximun = maximun;
+		this.minimun = minimun;
+	}
+	
+}

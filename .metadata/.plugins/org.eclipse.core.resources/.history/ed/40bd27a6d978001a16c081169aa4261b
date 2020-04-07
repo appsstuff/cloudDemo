@@ -1,0 +1,7 @@
+spring.application.name=limitservice
+spring.profiles.active=limitservice
+server.port=8080
+management.endpoints.web.exposure.include=*
+spring.cloud.config.uri=http://localhost:8888
+spring.cloud.config.enabled=true
+spring.cloud.config.fail-fast=true

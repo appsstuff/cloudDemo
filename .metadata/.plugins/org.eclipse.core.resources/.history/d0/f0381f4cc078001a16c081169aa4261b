@@ -1,0 +1,4 @@
+spring.application.name=configserver
+server.port=8888
+spring.config.location=D:\Spring\cloudDemo\28minutes\property
+

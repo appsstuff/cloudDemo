@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+D:\Spring\cloudDemo\28minutes\.metadata\.plugins\org.eclipse.jdt.core
+851402705.index
+1892588552.index
+3561162854.index
+1425003377.index
+798930960.index
+3046285769.index
+3298876462.index
+3919804524.index
+2507455363.index
+3930026618.index
+882508594.index
+1903077592.index
+1084057859.index
+2019074551.index
+1871448531.index
